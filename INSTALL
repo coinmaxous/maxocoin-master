@@ -1,0 +1,4 @@
+Building maxocoin
+See doc/readme-qt.rst for instructions on building maxocoin QT.
+
+See doc/build-*.txt for instructions on building maxocoind.
